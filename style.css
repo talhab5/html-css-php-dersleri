@@ -1,0 +1,35 @@
+button.btn {
+	margin-top: 50px;
+	height: 30px;
+	margin-right: 5px;
+	margin-left: 20px;
+	border-radius: 50px;
+
+}
+#logo{
+	padding-top: 20;
+}
+#alan{
+	background-color: pink;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 299px;
+
+}
+
+input#kutucuk {
+	border-bottom: 50;
+	width: 500px;
+	height: 30px;
+	padding-left: 15px; /* içten boşluk */
+	font-size: 15px; /* yazı büyüklüğü */
+	color: #505050;
+	margin-bottom: 30px;
+	border: 1px solid purple;   /* kenarlar */
+	border-radius: 50px;
+}
+
+body {
+	margin: 0px;
+}
